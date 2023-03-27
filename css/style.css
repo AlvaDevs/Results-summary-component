@@ -214,6 +214,7 @@ body {
 
 /*? Summary **/
 .resultSummary__summary {
+    border-radius: 2rem;
     background-color: var(--white);
 }
 .summary__container {
