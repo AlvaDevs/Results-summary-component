@@ -1,0 +1,30 @@
+:root {
+    /*? Primary */
+    --primaryRed: hsl(0, 100%, 67%);
+    --pimaryYellow: hsl(39, 100%, 56%);
+    --primaryGreen: hsl(166, 100%, 37%);
+    --primaryBlue: hsl(234, 85%, 45%);
+
+    /*? Gradient */
+    --GradiantViolet: hsl(252, 100%, 67%);
+    --GradiantBlue: hsl(241, 81%, 54%);
+
+    /*? Circle */
+    --violet: hsla(256, 72%, 46%, 1);
+    --darkBlue: hsla(241, 72%, 46%, 0);
+
+    /*? Others */
+    --white: hsl(0, 0%, 100%);
+    --lightBlue: hsl(221, 100%, 96%);
+    --lightViolet: hsl(241, 100%, 89%);
+    --darkGray: hsl(224, 30%, 27%);
+}
+
+/*? Global */
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
